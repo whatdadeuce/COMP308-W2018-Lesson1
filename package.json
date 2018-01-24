@@ -2,6 +2,9 @@
   "name": "comp308-w2018-lesson1",
   "version": "0.0.1",
   "description": "Node and Express Demo for COMP308",
+  "repository": {
+    "url": "github.com/whatdadeuce/COMP308-W2018-Lesson1.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2" 
   }
 }
